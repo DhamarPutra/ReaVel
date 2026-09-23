@@ -1,3 +1,3 @@
-WIB: Wednesday, 23 September 2026 23.30.03 UTC
-WITA: Thursday, 24 September 2026 00.30.03 UTC
-WIT: Thursday, 24 September 2026 01.30.03 UTC
+WIB: Thursday, 24 September 2026 03.02.40 UTC
+WITA: Thursday, 24 September 2026 04.02.40 UTC
+WIT: Thursday, 24 September 2026 05.02.40 UTC
